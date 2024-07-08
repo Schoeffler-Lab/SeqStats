@@ -2,7 +2,7 @@
 This repository contains a set of python scripts for calculating and visualizing amino acid frequencies in sets of protein sequences. 
 
 # Instructions
-NOTE: These instructions assume you have a small amount of familiarity with the command line
+NOTE: These instructions assume you have a small amount of familiarity with the command line. You don't need much familiarity with python.
 1) Download the contents of this repository and place the files in thier own directory.
 2) Copy your unaligned sequence files (FASTA format only) into the directory.
 
