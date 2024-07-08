@@ -1,5 +1,5 @@
 # SeqStats
-a set of scripts for calculating and visualizing amino acid frequencies in sets of amino acid sequences
+This repository contains a set of python scripts for calculating and visualizing amino acid frequencies in sets of protein sequences. 
 
 # Instructions
 NOTE: These instructions assume you have a small amount of familiarity with the command line
